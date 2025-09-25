@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Diego 👋
 
-<!--
-**diebuc/diebuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Engineer evolving into Platform Engineering and Cloud Infrastructure.
+Currently building projects around:
 
-Here are some ideas to get you started:
+* ☁️ AWS enterprise architectures
+* 🏗️ Infrastructure as Code (Terraform)
+* 🔧 DevOps automation and tooling
+* 💰 Cloud cost optimization (FinOps)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Also Looking For
+Opportunities in Platform Engineering, DevOps, Cloud Infrastructure, Serverless, and FinOps roles.
+
+Based in Madrid, Spain 🇪🇸
+
+Let's connect! Always happy to discuss cloud architecture, automation, or interesting opportunities.
